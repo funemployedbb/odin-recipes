@@ -1,2 +1,2 @@
 # odin-recipes
-This project creates an HTML page showcasing recipies
+This project creates an HTML page showcasing recipes
